@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I am Flik 👋
 
+I am a Front-End Developer who loves all creative things.
 <!--
 **fliklab/fliklab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
